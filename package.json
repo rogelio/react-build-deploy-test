@@ -1,5 +1,5 @@
 {
-  "name": "07 - Lists and Keys",
+  "name": "08 - Props and Prop Drilling",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
