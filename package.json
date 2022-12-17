@@ -1,5 +1,5 @@
 {
-  "name": "09 - Controlled Component Inputs",
+  "name": "11 - useEffect Hook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
