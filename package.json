@@ -1,6 +1,7 @@
 {
   "name": "23 - Build Deploy React Apps",
   "version": "0.1.0",
+  "homepage": "https://rogelio.github.io/react-course-23-Build-Deploy-React-Apps",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -9,6 +10,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeply": "npm run build",
+    "deploy": "gh-page -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
