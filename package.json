@@ -1,7 +1,7 @@
 {
-  "name": "23 - Build Deploy React Apps",
+  "name": "react-build-deploy-test",
   "version": "0.1.0",
-  "homepage": "https://rogelio.github.io/react-course-23-Build-Deploy-React-Apps",
+  "homepage": "https://rogelio.github.io/react-build-deploy-test",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
